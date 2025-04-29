@@ -20,7 +20,7 @@ const BlogCard = ({ props }) => {
                 <CardContent className="flex flex-col justify-between h-full"> {/* Ensures content stretches */}
                     <div className='flex items-center justify-between'>
                         <div className='flex justify-between items-center gap-2'>
-                            <Avatar>
+                            <Avatar className="border border-black">
                                 <AvatarImage src={author?.avatar || usericon} />
                             </Avatar>
                             <span>{author?.name || 'Unknown'}</span>

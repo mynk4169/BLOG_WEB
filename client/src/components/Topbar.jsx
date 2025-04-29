@@ -89,9 +89,10 @@ const Topbar = () => {
                     :
                     <DropdownMenu>
                         <DropdownMenuTrigger>
-                            <Avatar>
+                            <Avatar className="border border-black">
                                 <AvatarImage src={user.user.avatar || usericon} />
                             </Avatar>
+
 
                         </DropdownMenuTrigger>
                         <DropdownMenuContent>

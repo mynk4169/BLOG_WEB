@@ -101,7 +101,7 @@ const Profile = () => {
                         {({ getRootProps, getInputProps }) => (
                             <div {...getRootProps()}>
                                 <input {...getInputProps()} />
-                                <Avatar className="w-28 h-28 relative group">
+                                <Avatar className="w-28 h-28 relative group border border-black">
                                     <AvatarImage src={filePreview ? filePreview : userData?.user?.avatar} />
                                     <div className='absolute z-50 w-full h-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 justify-center items-center bg-black bg-opacity-20 border-2 border-violet-500 rounded-full group-hover:flex hidden cursor-pointer'>
                                         <IoCameraOutline color='#7c3aed' />
@@ -110,6 +110,7 @@ const Profile = () => {
                             </div>
                         )}
                     </Dropzone>
+
 
 
                 </div>
