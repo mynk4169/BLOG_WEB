@@ -73,5 +73,5 @@ Vite (development server)
 
 📸 Demo/Video
 demo video of project 
-youtube video link of project -> https://youtu.be/TebS97W7A4
+youtube video link of project -> https://youtu.be/ZTebS97W7A4?si=wFR4rnMchMi4qxEc
 
