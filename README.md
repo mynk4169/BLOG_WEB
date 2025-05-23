@@ -40,7 +40,8 @@ cd BLOG_WEB
 cd api
 npm install
   <!-- Install nodemon globally (if not already installed): -->
-npm install -g nodemon
+npm install -g nodemon         
+
 npm run dev 
 
 💻 3. Set Up the Frontend (Client)
