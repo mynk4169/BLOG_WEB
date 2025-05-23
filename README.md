@@ -38,6 +38,7 @@ cd BLOG_WEB
 🔧 2. Set Up the Backend (API)
 ## in terminal
 cd api
+
 npm install
   <!-- Install nodemon globally (if not already installed): -->
 npm install -g nodemon         
@@ -47,6 +48,7 @@ npm run dev
 💻 3. Set Up the Frontend (Client)
 ## in terminal
 cd client
+
 npm install
 <!-- If you haven't already created the project with Vite, use: -->
 npm install vite
