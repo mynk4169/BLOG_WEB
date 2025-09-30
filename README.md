@@ -1,33 +1,27 @@
 📝 Project Title — BLOG_WEB
 📌 Description
 
-BLOG_WEB is a full-stack web application built using Spring Boot (Backend) and React.js (Frontend).
-It allows users to explore and manage blogs seamlessly with a clean UI and secure backend.
+BLOG_WEB is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that allows users to explore and manage blogs seamlessly.
 
-✨ Features
+✨ Key Features
 
-📰 Read Blogs: Browse blogs from different categories.
+📰 Read Blogs — Browse a variety of blogs across different categories.
 
-✍️ Create Blogs: Add new blogs with rich content.
+✍️ Create Blogs — Add new blogs with rich and structured content.
 
-🔐 User Authentication: Log in using email credentials to create and manage personal content.
+🔐 User Authentication — Log in using email credentials to create and manage personal blog content.
 
-📚 Content Management System (CMS): A simple CMS for blog publishing, with responsive UI and robust backend APIs.
+This platform functions as a basic Content Management System (CMS) for blog publishing, combining a responsive front-end with a robust back-end API and secure authentication mechanisms.
 
-🧱 Tech Stack
+🧱 Tech Implementation
 
-Backend: Spring Boot (Java), REST APIs, Spring Security, JPA/Hibernate
+✅ Backend — Built with Node.js and Express.js
 
-Frontend: React.js, Vite
+✅ Database — Integrated with MongoDB for efficient data storage and retrieval
 
-Database: MySQL / PostgreSQL (depending on your setup)
+✅ Frontend — Developed a user-friendly interface using React.js
 
-Build Tool: Maven (for backend), npm (for frontend)
-
-✅ Backend built with Spring Boot
-✅ Frontend developed with React + Vite
-✅ Secure authentication & CRUD operations
-✅ RESTful API communication between frontend and backend
+✅ Core Features — Implemented blog posting, user login & registration, and content manageme
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Setup Instructions
