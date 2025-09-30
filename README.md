@@ -1,21 +1,33 @@
-# Project Title - BLOG_WEB
+📝 Project Title — BLOG_WEB
+📌 Description
 
-## 📌 Description
+BLOG_WEB is a full-stack web application built using Spring Boot (Backend) and React.js (Frontend).
+It allows users to explore and manage blogs seamlessly with a clean UI and secure backend.
 
-BLOG_WEB is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that allows users to explore and manage blogs. Users can:
+✨ Features
 
-📰 Read a variety of blogs from different categories
+📰 Read Blogs: Browse blogs from different categories.
 
-✍️ Add new blogs with rich content
+✍️ Create Blogs: Add new blogs with rich content.
 
-🔐 Log in using their email credentials to create and manage their content
+🔐 User Authentication: Log in using email credentials to create and manage personal content.
 
-This platform serves as a basic content management system (CMS) for blog publishing, combining responsive front-end design with a robust back-end API and secure user authentication
+📚 Content Management System (CMS): A simple CMS for blog publishing, with responsive UI and robust backend APIs.
 
-✅ Setting up the backend with Node.js and Express.js
-✅ Integrating MongoDB for database management
-✅ Developing a user-friendly frontend with React
-✅ Implementing essential features like blog posting, user authentication, and more!
+🧱 Tech Stack
+
+Backend: Spring Boot (Java), REST APIs, Spring Security, JPA/Hibernate
+
+Frontend: React.js, Vite
+
+Database: MySQL / PostgreSQL (depending on your setup)
+
+Build Tool: Maven (for backend), npm (for frontend)
+
+✅ Backend built with Spring Boot
+✅ Frontend developed with React + Vite
+✅ Secure authentication & CRUD operations
+✅ RESTful API communication between frontend and backend
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Setup Instructions
